@@ -34,3 +34,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent tooling — installed with `npx skills add`; restore via skills-lock.json
+# (`npx skills experimental_install`) instead of committing ~39 MB of duplicated
+# skill files across three agent directories.
+/.agents
+/.claude
+/.codebuddy
+/.workbuddy-ai
+
+# playwright artefacts
+/test-results
+/playwright-report

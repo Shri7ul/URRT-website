@@ -1,0 +1,53 @@
+﻿source_page,source_url,content_item,destination_route,status,notes
+index.html,https://rescuerover.uiu.ac.bd/index.html,Hero headline and team positioning,/,REWRITTEN,Original was a loading-screen slogan; replaced with a plain statement of what the team does.
+index.html,https://rescuerover.uiu.ac.bd/index.html,Vision statement ("advancing rescue robotics in Bangladesh"),/,"MIGRATED","Meaning preserved; sentence rebuilt for reading rather than display type."
+index.html,https://rescuerover.uiu.ac.bd/index.html,Research & development partner logos (SolidWorks / Protospace / Dassault / DFRobot),/partners,MIGRATED,"Published with a provenance caveat: team-stated, not independently verified."
+index.html,https://rescuerover.uiu.ac.bd/index.html,Academic supporters (UIU / CAIR),/partners,MIGRATED,
+index.html,https://rescuerover.uiu.ac.bd/index.html,Mission timeline (5 dated entries),/journey,MIGRATED,"Dates preserved verbatim. ""Upcoming"" status for RoboCup 2026 corrected to past tense."
+index.html,https://rescuerover.uiu.ac.bd/index.html,RoboCup Rescue 2026 target,,"/journey",REWRITTEN,"Was described as future event in Icheon; now past event in Incheon, with participation explicitly unverified."
+index.html,https://rescuerover.uiu.ac.bd/index.html,Achievement — BEAR Summit 2025 2nd Runner-Up,/journey,WITHHELD_WRONG_ENTITY,Body text attributes this to UIU Mars Rover Team (UMRT). Not URRT's result.
+index.html,https://rescuerover.uiu.ac.bd/index.html,Achievement — ARC 2025 3rd place + Best Science + Best Autonomous,/journey,WITHHELD_WRONG_ENTITY,Attributes to UMRT and rover AXIOS. Not URRT's result.
+index.html,https://rescuerover.uiu.ac.bd/index.html,Achievement — ARC 2023 3rd of 38 teams,/journey,WITHHELD_WRONG_ENTITY,Attributes to UMRT. Not URRT's result.
+index.html,https://rescuerover.uiu.ac.bd/index.html,Media coverage cards (Daily Star / Prothom Alo / Business Standard),/journey,WITHHELD_UNVERIFIED,"No source URLs; headlines concern URC and Mars research (UMRT subject matter)."
+index.html,https://rescuerover.uiu.ac.bd/index.html,Placeholder video links (youtube v=abc123 / facebook v=123456),,DROPPED,Never resolved to real content.
+index.html,https://rescuerover.uiu.ac.bd/index.html,Contact block (email / phone / address),/contact,MIGRATED,"Canonical phone standardised to +880 1909 356 346."
+index.html,https://rescuerover.uiu.ac.bd/index.html,Become-a-sponsor CTA,/partners,REWRITTEN,"Now states what sponsorship funds, without invented audience metrics."
+index.html,https://rescuerover.uiu.ac.bd/index.html,Hero and team photography,/ (hero),MIGRATED,"All images re-encoded to WebP; alt text rewritten."
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,AEGIS description,/projects/aegis,MIGRATED,"Typo ""USAR)environments"" fixed."
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,AEGIS specification table,/projects/aegis,MIGRATED,
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,AEGIS subsystems (locomotion / perception / manipulation),/projects/aegis,MIGRATED,"Extended with design-trade-off detail written from the stated specs."
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,Zugbee X1 description,/projects/zugbee-x1,MIGRATED,
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,Zugbee X1 spec table (""Wheeled Rover / 4-Wheel Drive""),/projects/zugbee-x1,CORRECTED,"Photographs show a twin-track chassis. Description follows the photographs; discrepancy noted on the page and in factual-issues.md."
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,Project galleries (7 photographs),/projects/[slug],MIGRATED,"New captions written from what is visible in each frame."
+projects.html,https://rescuerover.uiu.ac.bd/projects.html,Join CTA,/projects,REWRITTEN,
+member.html,https://rescuerover.uiu.ac.bd/member.html,2026 roster — 15 members with sub-team assignment,/team,MIGRATED,"Transcribed exactly. No leadership titles invented."
+member.html,https://rescuerover.uiu.ac.bd/member.html,Member portraits (15),/team,MIGRATED,
+Advisors.html,https://rescuerover.uiu.ac.bd/Advisors.html,Advisory board — 2 advisors + director with research interests,/team,MIGRATED,
+Advisors.html,https://rescuerover.uiu.ac.bd/Advisors.html,Advisor contact emails,/team,MIGRATED,Public institutional addresses only.
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,Sub-team requirements (6 disciplines),/join,MIGRATED,
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,Benefits / eligibility / commitment,/join,MIGRATED,
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,FAQ (4 questions),/join,REWRITTEN,"Merged into page copy and contact FAQ."
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,Deadline ""March 1, 2026"",/join,WITHHELD_CONFLICTING,Contradicts the same page's ""March 13, 2025"" footer.
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,Deadline ""March 13, 2025 11:59 PM"",/join,WITHHELD_CONFLICTING,Expired; contradicts the 2026 date.
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,Application form (no action attribute),/join,REPLACED,Replaced with a working mailto composer. Original sent nothing.
+Join.html,https://rescuerover.uiu.ac.bd/Join.html,Phone +880 1796-992356,/join,WITHHELD_CONFLICTING,"Different number from every other page; superseded by the canonical number."
+contact.html,https://rescuerover.uiu.ac.bd/contact.html,Email / phone / address / lab location,/contact,MIGRATED,
+contact.html,https://rescuerover.uiu.ac.bd/contact.html,Operational hours,/contact,CORRECTED,"Unified to Sunday-Thursday 08:00-20:00; the ""Mon-Fri 9-5"" variant conflicted with the institution's week."
+contact.html,https://rescuerover.uiu.ac.bd/contact.html,Google Maps embed,/contact,MIGRATED,Embed URL preserved; lazy-loaded and titled.
+contact.html,https://rescuerover.uiu.ac.bd/contact.html,FAQ (6 questions),/contact,REWRITTEN,"Answers rewritten; RoboCup entry corrected to past tense and unverified status."
+contact.html,https://rescuerover.uiu.ac.bd/contact.html,Contact form (no action attribute),/contact,REPLACED,Replaced with a working mailto composer.
+sponsor.html,https://rescuerover.uiu.ac.bd/sponsor.html,Empty Platinum / Gold / Silver tiers,/partners,DROPPED,No sponsor was named in any tier.
+sponsor.html,https://rescuerover.uiu.ac.bd/sponsor.html,Partnership enquiry form,/partners,REWRITTEN,"Replaced with mailto composer; budget-range selector removed as it implied a published rate card."
+sponsor.html,https://rescuerover.uiu.ac.bd/sponsor.html,What you'll receive (prospectus / call / proposal),/partners,MIGRATED,
+video.html,https://rescuerover.uiu.ac.bd/video.html,RoboCup 2026 qualification video (YouTube mp6F0gAOtGY),/journey,MIGRATED,"Embedded as evidence of submission. 28:59 duration badge removed (it contradicted the stated 5-minute rule)."
+video.html,https://rescuerover.uiu.ac.bd/video.html,RoboCup video requirements,/journey,MIGRATED,Presented as the league's rule rather than a claim about the video.
+video.html,https://rescuerover.uiu.ac.bd/video.html,AEGIS description (duplicate of projects.html),,DROPPED_DUPLICATE,Identical text duplicated across two pages.
+gears.html,https://rescuerover.uiu.ac.bd/gears.html,Cap and jersey product copy,/gear,MIGRATED,"Retail framing (""drop"", ""limited edition"") dropped — there was no price or checkout."
+gears.html,https://rescuerover.uiu.ac.bd/gears.html,Claim ""Bangladesh's first RoboCup Rescue team"",,DROPPED,Unsupported; BRACU ALTER appears in league records from 2023.
+Assets.html,https://rescuerover.uiu.ac.bd/Assets.html,Logo and mark registry,/brand-assets,MIGRATED,"File count now computed; ""0 TOTAL FILES"" placeholder removed."
+Assets.html,https://rescuerover.uiu.ac.bd/Assets.html,umrt_logo.png used as URRT primary emblem,/brand-assets,MIGRATED,"File inspected: artwork is URRT's own badge, only the filename is misleading. Circular emblem published as the primary mark; naming flagged for correction."
+Assets.html,https://rescuerover.uiu.ac.bd/Assets.html,Permitted / not-permitted usage rules,/brand-assets,MIGRATED,
+webmaster.html,https://rescuerover.uiu.ac.bd/webmaster.html,Webmaster credit (1 person),/webmasters,MIGRATED,
+webmaster.html,https://rescuerover.uiu.ac.bd/webmaster.html,Technology stack list,/webmasters,REWRITTEN,Now reflects the actual stack.
+N/A,N/A,Design system documentation,docs/design-system.md,NEW,No equivalent existed.
+N/A,N/A,Content audit artifacts,content-audit/,NEW,No equivalent existed.
